@@ -19,7 +19,7 @@ claude plugin marketplace add Brezn610/snowfall-theme
 claude plugin install snowfall-theme@snowfall
 ```
 
-The repository is private, so the machine needs GitHub access to it (for example `gh auth login`, or a `GITHUB_TOKEN` in the environment). Start a new session afterwards; the backdrop appears once the first message is sent.
+The repository is public, so no GitHub sign-in is needed to install it; the machine only needs `git`. (If the repository is ever made private, each machine needs GitHub access to it, for example `gh auth login` or a `GITHUB_TOKEN` in the environment.) Start a new session afterwards; the backdrop appears once the first message is sent.
 
 ## Credits
 
