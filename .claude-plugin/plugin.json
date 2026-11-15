@@ -1,0 +1,6 @@
+{
+  "name": "snowfall-theme",
+  "version": "0.2.1",
+  "description": "Night-sky theme whose snowfall grows as the context window fills",
+  "types": "./types/index.d.ts"
+}

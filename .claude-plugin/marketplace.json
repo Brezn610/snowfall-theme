@@ -1,0 +1,5 @@
+{
+  "name": "snowfall",
+  "owner": { "name": "me" },
+  "plugins": [{ "name": "snowfall-theme", "source": "./" }]
+}
